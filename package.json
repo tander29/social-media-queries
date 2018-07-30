@@ -1,0 +1,12 @@
+{
+  "name": "yarnthings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tander29/social-media-queries",
+  "author": "Travis Anderson <thetanderson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
+  }
+}
